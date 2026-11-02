@@ -502,6 +502,10 @@
         {
           "t": "Huasteco de corazón (documental completo)",
           "url": "https://www.youtube.com/watch?v=YdkIvt1Kcpk"
+        },
+        {
+          "t": "Huasteco de corazón · tráiler",
+          "url": "https://www.youtube.com/watch?v=Jxf8Maysn90"
         }
       ]
     },
@@ -542,6 +546,28 @@
       "desc": "Registro y edición para el fondo de reconstrucción tras los sismos de 2017.",
       "tags": [
         "real"
+      ],
+      "videos": [
+        {
+          "t": "#Reconstrucciones · Fondo Levantemos México",
+          "url": "https://www.youtube.com/watch?v=ncL7tXSTVdQ"
+        },
+        {
+          "t": "Aulas Escuela San Mateo del Mar · Pasos Permacultura",
+          "url": "https://www.youtube.com/watch?v=c8gZl_ssako"
+        },
+        {
+          "t": "Encuentro de organizaciones en Oaxaca, octubre 2019",
+          "url": "https://www.youtube.com/watch?v=FbZ84IrOaKs"
+        },
+        {
+          "t": "Recuperación de cocinas · Asamblea de Pueblos del Istmo",
+          "url": "https://www.youtube.com/watch?v=QYK8sJAzhJQ"
+        },
+        {
+          "t": "Grupo de Educación Popular con Mujeres",
+          "url": "https://www.youtube.com/watch?v=K6b7an7ADI8"
+        }
       ]
     },
     {
@@ -642,6 +668,40 @@
         "foto",
         "real",
         "prod"
+      ],
+      "videos": [
+        {
+          "t": "Compañía de Teatro Penitenciario Santa Martha Acatitla",
+          "url": "https://www.youtube.com/watch?v=5f9370V-q4Q"
+        },
+        {
+          "t": "Mis Emociones · MC Mimo (Sesiones en Cana)",
+          "url": "https://www.youtube.com/watch?v=JCiuV2CNnz0"
+        },
+        {
+          "t": "El77CCA · resumen 2015–2017",
+          "url": "https://www.youtube.com/watch?v=cwJvvF1XIT8"
+        },
+        {
+          "t": "Compañía de Teatro Penitenciario · recorrido",
+          "url": "https://www.youtube.com/watch?v=OfbR8LuVo7E"
+        },
+        {
+          "t": "«Esperando a Godot»",
+          "url": "https://www.youtube.com/watch?v=9N_WGbtvMnc"
+        },
+        {
+          "t": "Mentes en Fuga · libro colaborativo",
+          "url": "https://www.youtube.com/watch?v=Dyq6WAP_c6s"
+        },
+        {
+          "t": "Rap Canero · LA Fraternidad (Sesiones en Cana)",
+          "url": "https://www.youtube.com/watch?v=zzdaPTMsCSU"
+        },
+        {
+          "t": "Armando Teatro en el Barrio (Tepito)",
+          "url": "https://www.youtube.com/watch?v=0xkgLIDo7tU"
+        }
       ]
     },
     {
@@ -658,6 +718,12 @@
         "real",
         "invest",
         "web"
+      ],
+      "videos": [
+        {
+          "t": "El Abordaje de las Ideas · teaser",
+          "url": "https://www.youtube.com/watch?v=0hfMxYGL5qU"
+        }
       ]
     },
     {
@@ -817,6 +883,12 @@
       "tags": [
         "invest",
         "prog"
+      ],
+      "videos": [
+        {
+          "t": "«1000 Metros Bajo Tierra» en TVes · estreno 2012",
+          "url": "https://www.youtube.com/watch?v=5Oskp5lJ_rA"
+        }
       ]
     },
     {
@@ -830,6 +902,12 @@
       "desc": "Documental sobre la Selva Lacandona.",
       "tags": [
         "real"
+      ],
+      "videos": [
+        {
+          "t": "REDD: la codicia por los árboles",
+          "url": "https://www.youtube.com/watch?v=b0Md6WXj0pM"
+        }
       ]
     },
     {
@@ -877,6 +955,28 @@
       ],
       "tags": [
         "prod"
+      ],
+      "videos": [
+        {
+          "t": "«El camino de los ingleses» · tráiler",
+          "url": "https://www.youtube.com/watch?v=YrTqruURCmE"
+        },
+        {
+          "t": "«Manolete» · tráiler",
+          "url": "https://www.youtube.com/watch?v=U0jjWbtpynA"
+        },
+        {
+          "t": "«Triage» · tráiler",
+          "url": "https://www.youtube.com/watch?v=vSj3rNFnrOA"
+        },
+        {
+          "t": "«Green Zone» · tráiler",
+          "url": "https://www.youtube.com/watch?v=No2bXo8DsxU"
+        },
+        {
+          "t": "«My Life in Ruins» · tráiler",
+          "url": "https://www.youtube.com/watch?v=AkRMBRxC_Gk"
+        }
       ]
     },
     {
