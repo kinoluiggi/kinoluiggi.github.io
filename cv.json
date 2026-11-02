@@ -116,26 +116,65 @@
       "destacado": true
     },
     {
+      "id": "gamboa",
+      "tipo": "trabajo",
+      "inicio": "2026",
+      "estado": "en preparación · emisión 2027",
+      "titulo": "Acervo fílmico de la Promotora Cultural Fernando Gamboa",
+      "org": "MX Nuestro Cine · Canal 22.2 · con Filmoteca UNAM",
+      "lugar": "Ciudad de México",
+      "desc": "Investigación y revisión del acervo fílmico de la Promotora Cultural Fernando Gamboa resguardado en Filmoteca UNAM (años 30 a 60), para un ciclo televisivo.",
+      "tags": [
+        "prog",
+        "pres",
+        "invest"
+      ]
+    },
+    {
       "id": "ciclos-2026",
       "tipo": "trabajo",
       "inicio": "2026",
       "titulo": "Ciclos programados en 2026",
       "org": "MX Nuestro Cine · Canal 22.2",
       "lugar": "Ciudad de México",
-      "desc": "Ciclos, dossiers y gestión de derechos con realizadores e instituciones.",
+      "desc": "Ciclos y colaboraciones con acervos públicos y comunitarios, colectivos, festivales y escuelas, con gestión de derechos y dossiers.",
       "detalle": [
-        "El exilio español en México (junio)",
-        "Gregorio Rocha, un recorrido por el cine, la historia y la memoria visual mexicana (septiembre)",
+        "Colectivo Cine Mujer: obra pionera del cine feminista mexicano",
+        "TV Serrana",
+        "ULTRAcinema MX: cine experimental y de apropiación",
+        "Escuela Arte 7",
+        "Festival de Nuevo Cine Yucateco (FENCY)",
+        "CENIDIAP: videoarte",
+        "De la lata a la tele. Acervos de México: Centro de Producción de Cortometraje (CPC)",
         {
-          "t": "Acervos de México: acervo videográfico del Instituto Nacional de los Pueblos Indígenas (desde el 22 de septiembre)",
+          "t": "Mini ciclo «A 87 años del exilio español en México» (12 al 14 de junio)",
+          "url": "https://www.youtube.com/watch?v=ryRrG_NWBi4"
+        },
+        "Cortos del XIV Encuentro Contra el Silencio Todas las Voces",
+        {
+          "t": "Gregorio Rocha, un recorrido por el cine, la historia y la memoria visual mexicana (septiembre)",
+          "url": "https://www.youtube.com/watch?v=6NtI1OQeFzM"
+        },
+        {
+          "t": "Acervos de México: acervo videográfico del INPI (desde el 22 de septiembre)",
           "url": "https://www.youtube.com/watch?v=itLKoqoWYQk"
         },
-        "Día Mundial del Patrimonio Audiovisual: archivos independientes (27 de octubre)",
+        {
+          "t": "Día Mundial del Patrimonio Audiovisual 2026: archivos independientes (27 de octubre)",
+          "url": "https://www.youtube.com/watch?v=wSGCGhfr3Y0"
+        },
         "Sarah Minter (noviembre)",
         "Carlos Velo en el aniversario de su nacimiento (15 de noviembre)"
       ],
       "tags": [
-        "prog"
+        "prog",
+        "pres"
+      ],
+      "videos": [
+        {
+          "t": "La Pequeña Filmoteca en el Día Mundial del Patrimonio Audiovisual 2026",
+          "url": "https://www.youtube.com/watch?v=yJ988XRqiL8"
+        }
       ]
     },
     {
@@ -239,6 +278,28 @@
         "Contra el Silencio Todas las Voces",
         "Ambulante Más Allá",
         "Cortos de Mario Rafael Vega Martínez"
+      ],
+      "tags": [
+        "prog",
+        "pres"
+      ]
+    },
+    {
+      "id": "ciclos-2024",
+      "tipo": "trabajo",
+      "inicio": "2024",
+      "titulo": "Ciclos programados en 2024",
+      "org": "MX Nuestro Cine · Canal 22.2",
+      "lugar": "Televisión nacional",
+      "detalle": [
+        {
+          "t": "A 85 años del exilio español en México (15 de julio al 10 de agosto)",
+          "url": "https://www.youtube.com/watch?v=EXqSsSVgZSc"
+        },
+        {
+          "t": "Día Mundial del Patrimonio Audiovisual con el Archivo Fílmico Reyes y La Pequeña Filmoteca de Naranjas de Hiroshima",
+          "url": "https://www.youtube.com/watch?v=3PV2kXM863o"
+        }
       ],
       "tags": [
         "prog",
