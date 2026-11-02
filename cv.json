@@ -1,0 +1,491 @@
+{
+  "perfil": {
+    "nombre": "Luis Iborra Miralles",
+    "alias": "Kino",
+    "lugar": "Ciudad de México",
+    "roles": ["Programación y curaduría cinematográfica", "Preservación audiovisual", "Realización", "Fotografía", "Film research"],
+    "bio": "Programa y cura cortometrajes para MX Nuestro Cine (Canal 22.2). En 2007 fundó Naranjas de Hiroshima, archivo y blog de cine documental, y en 2019 La Pequeña Filmoteca, un archivo fílmico independiente con más de 500 piezas. Trabaja con película y su digitalización, y construye sus propios archivos web.",
+    "formatos": ["8mm", "Super 8", "9.5mm Pathé Baby", "16mm", "35mm nitrato", "Soportes videográficos"],
+    "email": "luisim79@yahoo.es",
+    "enlaces": [
+      { "t": "LinkedIn", "url": "https://www.linkedin.com/in/luis-iborra-miralles-0788ab37/" },
+      { "t": "Naranjas de Hiroshima", "url": "https://www.naranjasdehiroshima.com/" },
+      { "t": "La Pequeña Filmoteca", "url": "https://naranjasdehiroshima.github.io/la-lata-filmoteca/" },
+      { "t": "Fotografía en Flickr", "url": "https://www.flickr.com/photos/kinoluiggi/albums" },
+      { "t": "Blog de fotografía", "url": "https://kinoluiggi.blogspot.com/2014/11/fotografias-y-reportajes-publicados-en.html" },
+      { "t": "Linktree", "url": "https://linktr.ee/kinoluiggi" }
+    ],
+    "cifras": [
+      { "n": "2007", "t": "Naranjas de Hiroshima en línea" },
+      { "n": "500+", "t": "piezas en La Pequeña Filmoteca" },
+      { "n": "9 M+", "t": "espectadores de la 1ª Muestra NdH en TV" },
+      { "n": "505", "t": "películas en el archivo del exilio español" }
+    ]
+  },
+
+  "etiquetas": {
+    "prog": "Programación y curaduría",
+    "pres": "Preservación y archivo",
+    "invest": "Investigación y escritura",
+    "real": "Cámara, edición y sonido",
+    "prod": "Producción",
+    "foto": "Fotografía",
+    "web": "Archivos web y desarrollo",
+    "docen": "Talleres y conferencias",
+    "jurado": "Jurados"
+  },
+
+  "entradas": [
+    {
+      "id": "retro-omz", "tipo": "trabajo", "inicio": "2026", "estado": "en preparación · emisión 2027",
+      "titulo": "Retrospectiva Óscar Menéndez",
+      "org": "MX Nuestro Cine · Canal 22.2", "lugar": "Ciudad de México",
+      "desc": "Reconstrucción de la filmografía y localización de copias con el propio realizador, Cineteca Nacional, el INPI y el acervo del CPC, incluida la digitalización en 2K de «Dos de octubre, aquí México».",
+      "tags": ["prog", "pres", "invest"], "destacado": true
+    },
+    {
+      "id": "ciclos-2026", "tipo": "trabajo", "inicio": "2026",
+      "titulo": "Ciclos de programación 2026",
+      "org": "MX Nuestro Cine · Canal 22.2", "lugar": "Ciudad de México",
+      "desc": "Diseño de ciclos, dossiers y gestión de derechos con realizadores e instituciones.",
+      "detalle": [
+        "El exilio español en México (junio)",
+        "Gregorio Rocha, un recorrido por el cine, la historia y la memoria visual mexicana (septiembre)",
+        "Día Mundial del Patrimonio Audiovisual: archivos independientes (27 de octubre)",
+        "Sarah Minter (noviembre)",
+        "Carlos Velo en el aniversario de su nacimiento (15 de noviembre)"
+      ],
+      "tags": ["prog"]
+    },
+    {
+      "id": "muestra-ndh", "tipo": "trabajo", "inicio": "2025",
+      "titulo": "1ª Muestra de Cine Documental de Naranjas de Hiroshima",
+      "org": "MX Nuestro Cine · Canal 22.2", "lugar": "Televisión nacional",
+      "desc": "Curaduría completa de la muestra por ciclos, con más de 9 millones de espectadores acumulados. Incluyó el ciclo del Archivo de Cine Anarquista de la CNT (1936–1938).",
+      "url": "https://naranjasdehiroshima.github.io/dossier-1a-muestra/",
+      "tags": ["prog", "invest"], "destacado": true
+    },
+    {
+      "id": "historia-documento", "tipo": "trabajo", "inicio": "2025",
+      "titulo": "Restauración de «Historia de un documento» (Óscar Menéndez, 1971)",
+      "org": "Naranjas de Hiroshima", "lugar": "Ciudad de México",
+      "desc": "Restauración y puesta en acceso de la película, exhibida en televisión dentro de la 1ª Muestra NdH.",
+      "tags": ["pres"]
+    },
+    {
+      "id": "lpf-tv", "tipo": "trabajo", "inicio": "2025",
+      "titulo": "Material de La Pequeña Filmoteca en televisión",
+      "org": "MX Nuestro Cine · Canal 22.2", "lugar": "Televisión nacional",
+      "desc": "Emisión del noticiero de la toma de posesión de Miguel Alemán (1946), procedente del acervo propio.",
+      "tags": ["pres", "prog"]
+    },
+    {
+      "id": "ojo-cojo", "tipo": "actividad", "inicio": "2024-10", "fin": "2024-11",
+      "titulo": "Jurado de largometraje documental",
+      "org": "Festival Internacional de Cine El Ojo Cojo", "lugar": "Madrid",
+      "tags": ["jurado"]
+    },
+    {
+      "id": "c22-cortos", "tipo": "trabajo", "inicio": "2022-07", "actual": true,
+      "titulo": "Curaduría y programación de cortometrajes",
+      "org": "MX Nuestro Cine · Canal 22.2", "lugar": "Ciudad de México",
+      "desc": "Identificación y análisis de cortometrajes mexicanos e iberoamericanos, propuestas de parrilla y gestión de autorizaciones con realizadores, Cineteca Nacional, IMCINE, Filmoteca UNAM y otras instituciones.",
+      "url": "https://canal22.org.mx/mx_nuestro_cine.html",
+      "tags": ["prog", "invest"], "destacado": true
+    },
+    {
+      "id": "c22-research", "tipo": "trabajo", "inicio": "2022-05", "fin": "2022-06",
+      "titulo": "Film researcher",
+      "org": "Canal 22", "lugar": "Ciudad de México",
+      "desc": "Investigación de acervos cinematográficos para su curaduría y programación televisiva.",
+      "tags": ["invest", "prog"]
+    },
+    {
+      "id": "afr-2023", "tipo": "trabajo", "inicio": "2023-07", "fin": "2023-12",
+      "titulo": "Catalogación de colecciones de cine doméstico",
+      "org": "Archivo Fílmico Reyes · FOCINE Acervos 2023", "lugar": "Ciudad de México",
+      "desc": "Organización, clasificación, limpieza y reparación de película casera; catalogación y revisión de las colecciones.",
+      "tags": ["pres"], "destacado": true
+    },
+    {
+      "id": "sandia-2022", "tipo": "trabajo", "inicio": "2022-07", "fin": "2023-04",
+      "titulo": "Editor de video",
+      "org": "La Sandía Digital · New York University", "lugar": "Ciudad de México",
+      "desc": "Edición de proyectos sobre la defensa legal de la Amazonía y los derechos de la naturaleza (encuentro MOTH).",
+      "tags": ["real"]
+    },
+    {
+      "id": "nyu-moth", "tipo": "trabajo", "inicio": "2022-09",
+      "titulo": "Cámara en el encuentro MOTH",
+      "org": "NYU School of Law", "lugar": "Tarrytown, Nueva York",
+      "desc": "Grabación de entrevistas en el encuentro interdisciplinario sobre derechos más allá de lo humano, Pocantico Center.",
+      "tags": ["real"]
+    },
+    {
+      "id": "afr-2022", "tipo": "trabajo", "inicio": "2022-07", "fin": "2022-12",
+      "titulo": "Catalogación de colecciones de cine doméstico",
+      "org": "Archivo Fílmico Reyes · FOCINE Acervos 2022", "lugar": "Ciudad de México",
+      "desc": "Primera etapa del trabajo de organización, limpieza, reparación y catalogación de película casera.",
+      "tags": ["pres"]
+    },
+    {
+      "id": "ccemx-exilio", "tipo": "trabajo", "inicio": "2022-01", "fin": "2024-06",
+      "titulo": "Coordinación del archivo «El exilio español en el cine mexicano»",
+      "org": "Centro Cultural de España en México", "lugar": "Ciudad de México",
+      "desc": "Coordinación e investigación general para crear un archivo web sobre la huella del exilio republicano en el cine mexicano.",
+      "tags": ["invest", "pres", "web"], "destacado": true
+    },
+    {
+      "id": "ficunam-2022", "tipo": "actividad", "inicio": "2022",
+      "titulo": "Naranjas de Hiroshima, XV años",
+      "org": "Seminario El Público del Futuro · FICUNAM", "lugar": "Ciudad de México",
+      "desc": "Presentación de los quince años del proyecto.",
+      "tags": ["docen", "prog"]
+    },
+    {
+      "id": "pizca", "tipo": "trabajo", "inicio": "2021-12", "fin": "2022-02",
+      "titulo": "Film researcher freelance",
+      "org": "La Pizca Film Research", "lugar": "Ciudad de México",
+      "desc": "Localización de material de archivo para proyectos audiovisuales.",
+      "tags": ["invest"]
+    },
+    {
+      "id": "huasteco-ed", "tipo": "trabajo", "inicio": "2021-04", "fin": "2021-07",
+      "titulo": "Fotografía, cámara y montaje de «Huasteco de corazón»",
+      "org": "La Petenera Producciones", "lugar": "Ciudad de México",
+      "desc": "Documental dirigido por Aidée Balderas.",
+      "tags": ["real"]
+    },
+    {
+      "id": "tequio", "tipo": "trabajo", "inicio": "2020-06", "fin": "2020-08",
+      "titulo": "Coeditor de «Tlachinollan, mar de luchas»",
+      "org": "Tequio Audiovisual", "lugar": "Tlapa de Comonfort, Guerrero",
+      "desc": "Documental sobre la trayectoria del Centro de Derechos Humanos de la Montaña Tlachinollan.",
+      "tags": ["real"]
+    },
+    {
+      "id": "witness", "tipo": "trabajo", "inicio": "2020-02", "fin": "2020-03",
+      "titulo": "Editor de video",
+      "org": "WITNESS", "lugar": "Ciudad de México",
+      "desc": "Campaña de apoyo a la Guardia Indígena de Colombia, #YoTambiénSoyGuardia.",
+      "tags": ["real"]
+    },
+    {
+      "id": "ambulante", "tipo": "trabajo", "inicio": "2019-04", "fin": "2020-08",
+      "titulo": "Cámara, sonido y edición",
+      "org": "Ambulante A.C. · Levantemos México", "lugar": "Ciudad de México",
+      "desc": "Registro y edición para el fondo de reconstrucción tras los sismos de 2017.",
+      "tags": ["real"]
+    },
+    {
+      "id": "hasta-los-dientes", "tipo": "trabajo", "inicio": "2019-12", "fin": "2020-02",
+      "titulo": "Cámara y edición",
+      "org": "Hasta los Dientes Films", "lugar": "Ciudad de México",
+      "desc": "Proyectos con asociaciones culturales en escuelas públicas («Pinta tu escuela de amor», «Igualando ando»).",
+      "tags": ["real"]
+    },
+    {
+      "id": "lpf", "tipo": "proyecto", "inicio": "2019-07", "actual": true,
+      "titulo": "La Pequeña Filmoteca",
+      "org": "Naranjas de Hiroshima", "lugar": "Ciudad de México",
+      "desc": "Archivo fílmico independiente: más de 500 piezas en 39 colecciones, de 9.5mm Pathé Baby a 35mm. Fundación, investigación, catalogación y preservación, con catálogo web propio.",
+      "url": "https://naranjasdehiroshima.github.io/la-lata-filmoteca/",
+      "tags": ["pres", "web"], "destacado": true
+    },
+    {
+      "id": "simone", "tipo": "trabajo", "inicio": "2019-06",
+      "titulo": "Fotógrafo",
+      "org": "Instituto de Liderazgo Simone de Beauvoir", "lugar": "Ciudad de México",
+      "desc": "Taller «Reinventando narrativas para sociedades más justas».",
+      "tags": ["foto"]
+    },
+    {
+      "id": "tlachinollan-25", "tipo": "trabajo", "inicio": "2019-05",
+      "titulo": "Sonido directo y segunda cámara",
+      "org": "Tlachinollan, Centro de Derechos Humanos de la Montaña", "lugar": "Guerrero",
+      "desc": "Documental por el 25 aniversario de la organización.",
+      "tags": ["real"]
+    },
+    {
+      "id": "docsmx", "tipo": "actividad", "inicio": "2018-10",
+      "titulo": "Jurado de la sección «Hecho en México»",
+      "org": "DocsMX, Festival Internacional de Cine Documental", "lugar": "Ciudad de México",
+      "tags": ["jurado"]
+    },
+    {
+      "id": "cineteca", "tipo": "trabajo", "inicio": "2017-09", "fin": "2018-08",
+      "titulo": "Preservación digital de soportes videográficos",
+      "org": "Cineteca Nacional", "lugar": "Ciudad de México",
+      "desc": "Selección de títulos del acervo videográfico para digitalización, control de calidad de los materiales digitalizados y edición de archivo para redes y programación interinstitucional.",
+      "tags": ["pres", "prog"], "destacado": true
+    },
+    {
+      "id": "el77", "tipo": "trabajo", "inicio": "2015-01", "fin": "2017-08",
+      "titulo": "Coordinador del área audiovisual",
+      "org": "El77 Centro Cultural Autogestivo · Foro Shakespeare", "lugar": "Ciudad de México",
+      "desc": "Fotografía, video y diseño para los proyectos de impacto social del Foro Shakespeare y la Compañía de Teatro Penitenciario de Santa Martha Acatitla.",
+      "tags": ["foto", "real", "prod"]
+    },
+    {
+      "id": "abordaje", "tipo": "proyecto", "inicio": "2012-02", "fin": "2015-08",
+      "titulo": "El Abordaje de las Ideas",
+      "org": "Naranjas de Hiroshima", "lugar": "Ciudad de México",
+      "desc": "Investigación, guion, dirección, producción y cámara de un documental sobre los circuitos oficiales y subterráneos del cine en la Ciudad de México, pensado también como documental web.",
+      "url": "http://www.elabordajedelasideas.org/",
+      "tags": ["real", "invest", "web"]
+    },
+    {
+      "id": "roca", "tipo": "trabajo", "inicio": "2014-04", "fin": "2014-08",
+      "titulo": "Ayudante de producción en «Cooking Up a Tribute»",
+      "org": "Contents Area", "lugar": "Ciudad de México y Oaxaca",
+      "desc": "Documental gastronómico con los hermanos Roca.",
+      "tags": ["prod"]
+    },
+    {
+      "id": "sandia-2013", "tipo": "trabajo", "inicio": "2013-11", "fin": "2013-12",
+      "titulo": "Sonido y foto fija en «Mujeres en diálogo»",
+      "org": "La Sandía Digital", "lugar": "Amecameca, Estado de México",
+      "desc": "Docuficción dirigida por Laura Herrero.",
+      "tags": ["real", "foto"]
+    },
+    {
+      "id": "cai", "tipo": "actividad", "inicio": "2013-07",
+      "titulo": "Conferencia sobre distribución underground",
+      "org": "Campamento Audiovisual Itinerante", "lugar": "San Miguel Amatlán, Oaxaca",
+      "tags": ["docen"]
+    },
+    {
+      "id": "cinescope", "tipo": "actividad", "inicio": "2013-05",
+      "titulo": "Conferencia «Difusión underground»",
+      "org": "Programa de Formación Cinescope", "lugar": "Mérida, Venezuela",
+      "tags": ["docen"]
+    },
+    {
+      "id": "c22-sonido", "tipo": "trabajo", "inicio": "2013-04", "fin": "2013-06",
+      "titulo": "Sonidista en «Tú tienes la palabra»",
+      "org": "El Navegante Film · Canal 22", "lugar": "Ciudad de México",
+      "tags": ["real"]
+    },
+    {
+      "id": "navegante-cam", "tipo": "trabajo", "inicio": "2011-09", "fin": "2012-11",
+      "titulo": "Cámara, iluminación y producción en publicidad",
+      "org": "El Navegante Film", "lugar": "Ciudad de México",
+      "desc": "Comerciales con Canon 5D, Panasonic P2 y AF100.",
+      "tags": ["real", "prod"]
+    },
+    {
+      "id": "viewhaus", "tipo": "trabajo", "inicio": "2012-11",
+      "titulo": "Diseño y desarrollo del blog ViewhausLab",
+      "org": "Viewhaus", "lugar": "Ciudad de México",
+      "tags": ["web"]
+    },
+    {
+      "id": "uaeh", "tipo": "actividad", "inicio": "2012-10",
+      "titulo": "Taller «Fotografía y cine documental»",
+      "org": "Universidad Autónoma del Estado de Hidalgo", "lugar": "Real del Monte, Hidalgo",
+      "desc": "Dentro del VI Simposio Internacional «La imagen tecnológica».",
+      "tags": ["docen", "foto"]
+    },
+    {
+      "id": "caporales", "tipo": "trabajo", "inicio": "2012-06", "fin": "2012-07",
+      "titulo": "Cámara en «Los caporales del huapango»",
+      "org": "Dir. Aidée Balderas", "lugar": "Huasteca veracruzana",
+      "tags": ["real"]
+    },
+    {
+      "id": "kurimanzutto", "tipo": "trabajo", "inicio": "2012-06",
+      "titulo": "Cámara para una pieza de artista",
+      "org": "Galería Kurimanzutto", "lugar": "Ciudad de México",
+      "tags": ["real"]
+    },
+    {
+      "id": "ccemx-medea", "tipo": "trabajo", "inicio": "2012-03",
+      "titulo": "Cámara en el encuentro Medea Material / Las Poderosas",
+      "org": "Centro Cultural de España en México", "lugar": "Ciudad de México",
+      "tags": ["real"]
+    },
+    {
+      "id": "artaud", "tipo": "trabajo", "inicio": "2012-02", "fin": "2012-03",
+      "titulo": "Scouting y auxiliar de producción en «La cueva de Artaud»",
+      "org": "Pieza de Javier Téllez", "lugar": "Ciudad de México",
+      "tags": ["prod"]
+    },
+    {
+      "id": "tves", "tipo": "trabajo", "inicio": "2011-10", "fin": "2012-01",
+      "titulo": "Guionista e investigador de «1000 Metros Bajo Tierra»",
+      "org": "TVes, Televisora Venezolana Social", "lugar": "Caracas",
+      "desc": "Programa de televisión sobre cine independiente y subterráneo latinoamericano.",
+      "tags": ["invest", "prog"]
+    },
+    {
+      "id": "redd", "tipo": "trabajo", "inicio": "2011-06", "fin": "2011-07",
+      "titulo": "Cámara en «REDD: la codicia por los árboles»",
+      "org": "Otros Mundos", "lugar": "Chiapas",
+      "desc": "Documental sobre la Selva Lacandona.",
+      "tags": ["real"]
+    },
+    {
+      "id": "microfestival", "tipo": "proyecto", "inicio": "2010-01", "fin": "2010-08",
+      "titulo": "1er Microfestival de Cine Underground «1000 Metros Bajo Tierra»",
+      "org": "Producción propia", "lugar": "Alicante",
+      "desc": "Producción, diseño y programación del festival.",
+      "tags": ["prog", "prod"]
+    },
+    {
+      "id": "cuarto-milenio", "tipo": "trabajo", "inicio": "2008-09", "fin": "2010-07",
+      "titulo": "Ayudante de cámara en «Cuarto Milenio»",
+      "org": "Plural Entertainment · Cuatro", "lugar": "Madrid",
+      "tags": ["real"]
+    },
+    {
+      "id": "espana-rodajes", "tipo": "trabajo", "inicio": "2006-02", "fin": "2008-07",
+      "titulo": "Producción en rodajes de largometraje y publicidad",
+      "org": "Tornasol, Kanzaman, Agencia 2001 y otras", "lugar": "Madrid, Alicante, Murcia, Sevilla, Cádiz",
+      "desc": "Auxiliar de producción, localizaciones, figuración, cámara y dirección.",
+      "detalle": [
+        "Tornasol: «Mentiras y gordas», «Triage» (Danis Tanović), «7 minutos»",
+        "Kanzaman: «Green Zone» (Paul Greengrass), «The Bourne Ultimatum», «My Life in Ruins»",
+        "Agencia 2001, coordinación de figuración: «Manolete», «Rivales», «Mortadelo y Filemón: misión salvar la Tierra», «Quiéreme»",
+        "Green Moon: «El camino de los ingleses» (Antonio Banderas)",
+        "Miramón Mendi: auxiliar de cámara en «Escenas de matrimonio»",
+        "A Productora Morta: ayudante de dirección en «Frío»"
+      ],
+      "tags": ["prod"]
+    },
+    {
+      "id": "prosperidad", "tipo": "actividad", "inicio": "2007-02", "fin": "2007-06",
+      "titulo": "Taller de cine documental",
+      "org": "Escuela Popular de Prosperidad", "lugar": "Madrid",
+      "tags": ["docen"]
+    },
+    {
+      "id": "ndh", "tipo": "proyecto", "inicio": "2007-01", "actual": true,
+      "titulo": "Naranjas de Hiroshima",
+      "org": "Proyecto propio · CC BY-NC-SA", "lugar": "Madrid / Ciudad de México",
+      "desc": "Archivo y blog de cine documental, con foco en la memoria de resistencia de los pueblos de habla hispana. Fundación, investigación, archivo, diseño y redes.",
+      "url": "https://www.naranjasdehiroshima.com/",
+      "tags": ["invest", "web", "prog"], "destacado": true
+    },
+    {
+      "id": "kinoluiggi", "tipo": "trabajo", "inicio": "1996-02", "fin": "2023-01",
+      "titulo": "Fotografía documental, realización y diseño gráfico",
+      "org": "Kinoluiggi Media", "lugar": "España y México",
+      "desc": "Obra fotográfica propia publicada bajo licencia Creative Commons BY-NC-SA.",
+      "url": "https://kinoluiggi.blogspot.com/2014/11/fotografias-y-reportajes-publicados-en.html",
+      "tags": ["foto", "real"]
+    },
+    {
+      "id": "septimo-arte", "tipo": "trabajo", "inicio": "2004-12", "fin": "2005-08",
+      "titulo": "Dependiente en videoclub de cine de autor",
+      "org": "Séptimo Arte", "lugar": "Madrid",
+      "tags": []
+    },
+
+    {
+      "id": "web-verdoc", "tipo": "proyecto",
+      "titulo": "Ver Documentales",
+      "org": "Naranjas de Hiroshima",
+      "desc": "Plataforma de streaming con un catálogo de 500 a 700 documentales, actualizada automáticamente desde el blog.",
+      "url": "https://naranjasdehiroshima.github.io/verdocumentales/",
+      "tags": ["web", "prog"]
+    },
+    {
+      "id": "web-palestina", "tipo": "proyecto",
+      "titulo": "Archivo Fílmico de Palestina",
+      "org": "Archivo web",
+      "desc": "Archivo cronológico de más de 100 películas, de 1897 a 2025, priorizando versiones subtituladas en español.",
+      "url": "https://archivofilmicodepalestina.github.io/palestinalibre/",
+      "tags": ["web", "pres", "invest"]
+    },
+    {
+      "id": "web-amf", "tipo": "proyecto",
+      "titulo": "Alicante Memoria Fílmica",
+      "org": "Archivo web",
+      "desc": "121 películas (1905–2020) y más de 450 fotografías de la ciudad, con línea de tiempo por décadas, sala de proyección y fototeca.",
+      "url": "https://kinoluiggi.github.io/alicantememoriafilmica/",
+      "tags": ["web", "pres", "invest"]
+    },
+    {
+      "id": "web-exilio", "tipo": "proyecto",
+      "titulo": "El exilio español en el cine mexicano",
+      "org": "Archivo web · nueva versión independiente",
+      "desc": "Reconstrucción del archivo tras el cierre de la versión original: 505 películas, 110 personas, mapa interactivo y buscador.",
+      "tags": ["web", "invest", "pres"]
+    },
+    {
+      "id": "libro-ndh", "tipo": "proyecto",
+      "titulo": "Libros de Naranjas de Hiroshima",
+      "org": "Naranjas de Hiroshima · archive.org",
+      "desc": "El blog compilado en libro como respaldo de archivo: nº 8 (2007–2017), tomo 2020–2024 y, en preparación, el libro del 20 aniversario (2027).",
+      "tags": ["invest", "pres"]
+    },
+    {
+      "id": "web-naranjealo", "tipo": "proyecto",
+      "titulo": "Naranjéalo",
+      "org": "Naranjas de Hiroshima",
+      "desc": "Agregador de noticias culturales con más de 30 fuentes.",
+      "url": "https://naranjasdehiroshima.github.io/naranjealo/",
+      "tags": ["web"]
+    },
+    {
+      "id": "web-discoteca", "tipo": "proyecto",
+      "titulo": "La Discoteca Digital",
+      "org": "Catálogo musical",
+      "desc": "Reproductor y catálogo de más de 11 000 álbumes, con filtros por género, país y década y modo radio.",
+      "url": "https://kinoluiggi.github.io/discoteca/",
+      "tags": ["web"]
+    },
+    {
+      "id": "archaeovision", "tipo": "proyecto",
+      "titulo": "ArchaeoVision",
+      "org": "Herramienta de escritorio",
+      "desc": "Simulador de defectos audiovisuales históricos: dropout de VHS, parpadeo de 16mm y geometría de CRT, con exportación vía FFmpeg.",
+      "tags": ["web", "pres"]
+    },
+    {
+      "id": "kino-rew", "tipo": "proyecto",
+      "titulo": "Kino Rew, escáner de película DIY",
+      "org": "Investigación técnica",
+      "desc": "Pruebas de un escáner de cine casero para digitalizar el acervo de La Pequeña Filmoteca.",
+      "tags": ["pres"]
+    },
+    {
+      "id": "open-radio", "tipo": "proyecto", "estado": "en desarrollo",
+      "titulo": "Open Radio Archive",
+      "org": "Archivo sonoro",
+      "desc": "Base de datos mundial de grabaciones de radio abiertas, con esquema adaptado de PBCore.",
+      "tags": ["web", "pres"]
+    },
+
+    {
+      "id": "f-cineteca-2024", "tipo": "formacion", "inicio": "2024-09", "fin": "2024-11",
+      "titulo": "Preservación de material fílmico",
+      "org": "Cineteca Nacional",
+      "tags": ["pres"]
+    },
+    {
+      "id": "f-imcine-2023", "tipo": "formacion", "inicio": "2023-05",
+      "titulo": "Organización y clasificación de archivos audiovisuales con Airtable",
+      "org": "IMCINE",
+      "tags": ["pres"]
+    },
+    {
+      "id": "f-amia-2021", "tipo": "formacion", "inicio": "2021-10",
+      "titulo": "Técnicas de remasterización de color de cine doméstico en DaVinci Resolve",
+      "org": "AMIA, Association of Moving Image Archivists",
+      "tags": ["pres", "real"]
+    },
+    {
+      "id": "f-ripdasa-2021", "tipo": "formacion", "inicio": "2021-08",
+      "titulo": "Herramientas de código abierto para identificar y manejar archivos audiovisuales",
+      "org": "RIPDASA, Red Iberoamericana de Preservación Digital",
+      "tags": ["pres"]
+    },
+    {
+      "id": "f-ucm", "tipo": "formacion", "inicio": "2020",
+      "titulo": "Máster Universitario en Patrimonio Audiovisual: Historia, Recuperación y Gestión",
+      "org": "Universidad Complutense de Madrid",
+      "tags": ["pres", "invest"], "destacado": true
+    }
+  ]
+}
