@@ -52,8 +52,8 @@
     ],
     "cifras": [
       {
-        "n": "2007",
-        "t": "Naranjas de Hiroshima en línea"
+        "n": "2 283",
+        "t": "cortometrajes programados en MX Nuestro Cine (2022–2025)"
       },
       {
         "n": "500+",
@@ -324,7 +324,17 @@
         {
           "t": "Día Mundial del Patrimonio Audiovisual con el Archivo Fílmico Reyes y La Pequeña Filmoteca de Naranjas de Hiroshima",
           "url": "https://www.youtube.com/watch?v=3PV2kXM863o"
-        }
+        },
+        "Ojo de Agua Comunicación",
+        "FAUNA Fest",
+        "Red de Polos Audiovisuales",
+        "Escuela de Cine CCC, Escuela Arte 7 y Escuela Pohualizcalli",
+        "Ultracinema MX",
+        "GIFF Rally Universitario",
+        "Concursos y ciclos de PROCINE",
+        "Animación de la Filmoteca de la UNAM",
+        "Festival Mi Primer Corto Infantil",
+        "Cortos del IMCINE: Día de Muertos y lenguas originarias"
       ],
       "tags": [
         "prog",
@@ -351,13 +361,16 @@
       "titulo": "Curaduría y gestión de cortometrajes",
       "org": "MX Nuestro Cine · Canal 22.2",
       "lugar": "Ciudad de México",
-      "desc": "Investigación, curaduría y programación de cortometrajes y documentales mexicanos e iberoamericanos, con énfasis en la recuperación y exhibición de acervos. Gestión de autorizaciones con realizadores, colectivos, escuelas, festivales e instituciones como Cineteca Nacional, IMCINE, Filmoteca UNAM e INPI.",
+      "desc": "Investigación, curaduría y programación de cortometrajes y documentales mexicanos e iberoamericanos, con énfasis en la recuperación y exhibición de acervos. Gestión de autorizaciones con realizadores, colectivos, escuelas, festivales e instituciones como Cineteca Nacional, IMCINE, Filmoteca UNAM e INPI. Entre 2022 y 2025: 2 283 cortometrajes y 77 largometrajes programados, unas 686 horas de emisión.",
       "url": "https://canal22.org.mx/mx_nuestro_cine.html",
       "tags": [
         "prog",
         "invest"
       ],
-      "destacado": true
+      "destacado": true,
+      "detalle": [
+        "Acervos y colaboraciones 2022–2023: Contra el Silencio Todas las Voces, IMCINE, Red de Polos Audiovisuales, FECIBA, Ultracinema, Escuela de Cine CCC, DIS Guadalajara, Colegio de Cine BUAP, Escuela Arte 7, Muestra 5C, PROCINE, Shorts México, La Sandía Digital, entre otros"
+      ]
     },
     {
       "id": "c22-research",
