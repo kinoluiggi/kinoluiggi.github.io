@@ -97,41 +97,23 @@
       "id": "ciclos-2026",
       "tipo": "trabajo",
       "inicio": "2026",
-      "titulo": "Ciclos emitidos en 2026",
+      "titulo": "Ciclos programados en 2026",
       "org": "MX Nuestro Cine · Canal 22.2",
       "lugar": "Ciudad de México",
-      "desc": "Diseño de ciclos, dossiers y gestión de derechos con realizadores e instituciones.",
+      "desc": "Ciclos, dossiers y gestión de derechos con realizadores e instituciones.",
       "detalle": [
         "El exilio español en México (junio)",
         "Gregorio Rocha, un recorrido por el cine, la historia y la memoria visual mexicana (septiembre)",
+        {
+          "t": "Acervos de México: acervo videográfico del Instituto Nacional de los Pueblos Indígenas (desde el 22 de septiembre)",
+          "url": "https://www.youtube.com/watch?v=itLKoqoWYQk"
+        },
         "Día Mundial del Patrimonio Audiovisual: archivos independientes (27 de octubre)",
         "Sarah Minter (noviembre)",
         "Carlos Velo en el aniversario de su nacimiento (15 de noviembre)"
       ],
       "tags": [
         "prog"
-      ]
-    },
-    {
-      "id": "plan-2026",
-      "tipo": "trabajo",
-      "inicio": "2026",
-      "estado": "plan de trabajo en curso",
-      "titulo": "Líneas de programación y acervos 2026",
-      "org": "MX Nuestro Cine · Canal 22.2",
-      "lugar": "Ciudad de México",
-      "desc": "Plan anual organizado en nuevas propuestas, acuerdos por renovar y acuerdos por concretar con acervos públicos y comunitarios, escuelas, festivales y colectivos.",
-      "detalle": [
-        "Nuevos acervos: Colectivo Cine Mujer (1975–1984), acervo fílmico de la Promotora Cultural Fernando Gamboa en Filmoteca UNAM, Animasivo 16 (animación mexicana 1930–2024), acervo videográfico del INPI, TV Serrana, FICM Presenta",
-        "Investigación en el Archivo General de la Nación: Televisión Rural Mexicana (1979–1982) y Archivo Fílmico José López Portillo (1976–1982)",
-        "Colaboraciones continuas: Ojo de Agua, Nuevo Cine Yucateco, Escuela Arte 7, FAUNA Tepoztlán Animal Festival, ULTRAcinema MX",
-        "Retrospectivas en desarrollo: Óscar Menéndez y Dominique Jonard; acuerdo con la Licenciatura en Cine de la UNAY",
-        "Investigación de 37 obras sobre cine mexicano y fútbol para el año mundialista"
-      ],
-      "tags": [
-        "prog",
-        "pres",
-        "invest"
       ]
     },
     {
@@ -211,7 +193,7 @@
       "id": "prog-2025",
       "tipo": "trabajo",
       "inicio": "2025",
-      "titulo": "Programación de cortometrajes 2025",
+      "titulo": "Ciclos programados en 2025",
       "org": "MX Nuestro Cine · Canal 22.2",
       "lugar": "Televisión nacional",
       "desc": "Ciclos y colaboraciones con archivos, colectivos, festivales y escuelas.",

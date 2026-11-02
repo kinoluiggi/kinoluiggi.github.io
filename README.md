@@ -33,6 +33,22 @@ Edita `cv.json`. Cada registro en `entradas` tiene esta forma:
 }
 ```
 
+### Videos
+
+Cualquier enlace de YouTube (video, playlist o short) se abre en el visor emergente. Hay dos formas de ponerlos:
+
+```json
+"videos": [ { "t": "Promo del ciclo", "url": "https://www.youtube.com/watch?v=…" } ]
+```
+
+o, dentro de `detalle`, un objeto en lugar de texto, para que el botón salga junto a ese ciclo:
+
+```json
+"detalle": [ "Ciclo sin video", { "t": "Ciclo con video", "url": "https://youtu.be/…" } ]
+```
+
+El botón «▶ Con video» filtra solo los registros que tienen alguno.
+
 Las etiquetas (los filtros de perfil) se definen en `etiquetas`. Si añades una clave nueva, aparece sola como botón.
 
 ## Vistas
