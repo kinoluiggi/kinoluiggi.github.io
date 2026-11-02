@@ -19,7 +19,7 @@
       "35mm nitrato",
       "Soportes videográficos"
     ],
-    "email": "luisim79@yahoo.es",
+    "email": "kinoluiggi@gmail.com",
     "enlaces": [
       {
         "t": "LinkedIn",
@@ -43,7 +43,7 @@
       },
       {
         "t": "Blog de fotografía",
-        "url": "https://kinoluiggi.blogspot.com/2014/11/fotografias-y-reportajes-publicados-en.html"
+        "url": "https://kinoluiggi.blogspot.com/"
       },
       {
         "t": "Linktree",
@@ -91,7 +91,7 @@
     "prog": "Programación y curaduría",
     "pres": "Preservación y archivo",
     "invest": "Investigación y escritura",
-    "real": "Cámara, edición y sonido",
+    "real": "Cámara, edición y postproducción",
     "prod": "Producción",
     "foto": "Fotografía",
     "web": "Archivos web y desarrollo",
@@ -178,6 +178,27 @@
       ]
     },
     {
+      "id": "palestino-subs",
+      "tipo": "trabajo",
+      "inicio": "2025",
+      "fin": "2026",
+      "titulo": "Subtitulaje del ciclo «Días de Cine Palestino Alrededor del Mundo»",
+      "org": "MX Nuestro Cine · Canal 22.2",
+      "videos": [
+        {
+          "t": "Días de Cine Palestino Alrededor del Mundo · Promo 2025",
+          "url": "https://youtu.be/DB6GgQwyuSc"
+        },
+        {
+          "t": "Días de Cine Palestino Alrededor del Mundo 2026 · Promo",
+          "url": "https://youtu.be/Nx2kYIyTwAk"
+        }
+      ],
+      "tags": [
+        "real"
+      ]
+    },
+    {
       "id": "muestra-ndh",
       "tipo": "trabajo",
       "inicio": "2025-04",
@@ -257,6 +278,10 @@
         {
           "t": "De la lata a la tele · Centro de Producción de Cortometraje · Promo",
           "url": "https://www.youtube.com/watch?v=z3NzRpuHQTk"
+        },
+        {
+          "t": "De la lata a la tele · CPC · Promo (diciembre 2025)",
+          "url": "https://youtu.be/wqjkvh0TwXo"
         }
       ]
     },
@@ -892,7 +917,7 @@
       "org": "Kinoluiggi Media",
       "lugar": "España y México",
       "desc": "Obra fotográfica propia publicada bajo licencia Creative Commons BY-NC-SA.",
-      "url": "https://kinoluiggi.blogspot.com/2014/11/fotografias-y-reportajes-publicados-en.html",
+      "url": "https://kinoluiggi.blogspot.com/",
       "tags": [
         "foto",
         "real"
