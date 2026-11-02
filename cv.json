@@ -209,7 +209,17 @@
         "pres",
         "invest"
       ],
-      "destacado": true
+      "destacado": true,
+      "videos": [
+        {
+          "t": "De la lata a la tele. Acervos de México · Promo",
+          "url": "https://www.youtube.com/watch?v=8Ueo7LDvjLQ"
+        },
+        {
+          "t": "De la lata a la tele · Centro de Producción de Cortometraje · Promo",
+          "url": "https://www.youtube.com/watch?v=z3NzRpuHQTk"
+        }
+      ]
     },
     {
       "id": "prog-2025",
@@ -356,7 +366,7 @@
         "web"
       ],
       "destacado": true,
-      "url": "https://www.google.com/maps/d/edit?mid=1MGPSvoDX0gfitprLlKCKE2MSNP8Utck&usp=sharing"
+      "url": "https://exilio.ccemx.org/"
     },
     {
       "id": "ficunam-2022",
@@ -901,13 +911,14 @@
       "id": "web-exilio",
       "tipo": "proyecto",
       "titulo": "El exilio español en el cine mexicano",
-      "org": "Archivo web · nueva versión independiente",
-      "desc": "Reconstrucción del archivo tras el cierre de la versión original: 505 películas, 110 personas, mapa interactivo y buscador.",
+      "org": "Archivo web · Centro Cultural de España en México",
+      "desc": "Archivo web sobre la huella del exilio republicano español en el cine mexicano: 505 películas y 110 personas.",
       "tags": [
         "web",
         "invest",
         "pres"
-      ]
+      ],
+      "url": "https://exilio.ccemx.org/"
     },
     {
       "id": "libro-ndh",
