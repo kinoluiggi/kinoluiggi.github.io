@@ -143,6 +143,7 @@ main{padding-block:28px 72px}
 .play::before{content:"";width:0;height:0;border-left:8px solid var(--accent);border-top:5px solid transparent;border-bottom:5px solid transparent;flex:none}
 .play:hover{background:var(--fg);color:var(--bg)}
 .vids{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.hv{margin-top:16px}.hv:empty{display:none}
 .entry li .play{margin-left:6px;padding:1px 7px 1px 6px;font-size:11px;vertical-align:1px}
 .vchip{border-style:dashed}
 dialog.viewer{border:0;padding:0;background:var(--rail);color:#fff;width:min(960px,calc(100vw - 32px));max-width:none}
@@ -194,6 +195,7 @@ footer{border-top:1px solid var(--line);padding-block:20px 40px;font:12px var(--
         <p class="roles" id="roles"></p>
         <p class="bio" id="bio"></p>
         <div class="links" id="links"></div>
+        <div class="vids hv" id="hvids"></div>
       </div>
       <div class="label" aria-label="Ficha">
         <div class="head"><span>Ficha técnica</span><span id="ficha-n"></span></div>
@@ -229,7 +231,7 @@ footer{border-top:1px solid var(--line);padding-block:20px 40px;font:12px var(--
 
 <dialog class="viewer" id="viewer" aria-label="Visor de video">
   <div class="strip"></div>
-  <div class="vh"><span class="vt" id="vt"></span><a id="vlink" href="#" target="_blank" rel="noopener">YouTube ↗</a><button type="button" id="vclose">Cerrar</button></div>
+  <div class="vh"><span class="vt" id="vt"></span><a id="vlink" href="#" target="_blank" rel="noopener">Abrir original ↗</a><button type="button" id="vclose">Cerrar</button></div>
   <div class="frame" id="vframe"></div>
   <div class="strip"></div>
 </dialog>
@@ -253,7 +255,9 @@ function rango(e){
   if(e.fin&&e.fin!==e.inicio)return fmt(e.inicio)+' – '+fmt(e.fin);
   return fmt(e.inicio);
 }
-function yt(u){try{const x=new URL(u);if(!/youtube\.com|youtu\.be/.test(x.hostname))return null;
+function yt(u){try{const x=new URL(u);
+  if(/vimeo\.com$/.test(x.hostname)){const m=x.pathname.match(/(\d{6,})/);return m?'https://player.vimeo.com/video/'+m[1]+'?autoplay=1&dnt=1':null}
+  if(!/youtube\.com|youtu\.be/.test(x.hostname))return null;
   const list=x.searchParams.get('list');let id=x.searchParams.get('v');
   if(!id&&x.hostname.includes('youtu.be'))id=x.pathname.slice(1);
   if(!id){const m=x.pathname.match(/\/(shorts|embed|live)\/([^/?]+)/);if(m)id=m[2]}
@@ -291,6 +295,7 @@ function cabecera(){
   const ys=D.entradas.map(year).filter(Boolean);
   $('#f-desde').textContent=Math.min(...ys)+' – '+Math.max(...ys);
   $('#f-mail').textContent=p.email;
+  $('#hvids').innerHTML=(p.videos||[]).map(v=>playBtn(v)).join('');
   $('#cifras').innerHTML=(p.cifras||[]).map(c=>'<div class="cifra"><b>'+esc(c.n)+'</b><span>'+esc(c.t)+'</span></div>').join('');
 }
 
@@ -371,7 +376,7 @@ function init(data){
   $('#vf').addEventListener('click',()=>{state.video=!state.video;render()});
   const dlg=$('#viewer');
   const cerrar=()=>{$('#vframe').innerHTML='';if(dlg.open)dlg.close()};
-  $('#out').addEventListener('click',ev=>{const b=ev.target.closest('.play');if(!b)return;
+  document.addEventListener('click',ev=>{const b=ev.target.closest('.play');if(!b)return;
     const src=yt(b.dataset.u);$('#vt').textContent=b.dataset.t;$('#vlink').href=b.dataset.u;
     if(!src){window.open(b.dataset.u,'_blank','noopener');return}
     $('#vframe').innerHTML='<iframe src="'+esc(src)+'" title="'+esc(b.dataset.t)+'" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>';

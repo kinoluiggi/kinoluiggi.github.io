@@ -38,6 +38,10 @@
         "url": "https://www.flickr.com/photos/kinoluiggi/albums"
       },
       {
+        "t": "YouTube",
+        "url": "https://www.youtube.com/user/kinoluiggi"
+      },
+      {
         "t": "Blog de fotografía",
         "url": "https://kinoluiggi.blogspot.com/2014/11/fotografias-y-reportajes-publicados-en.html"
       },
@@ -62,6 +66,24 @@
       {
         "n": "505",
         "t": "películas en el archivo del exilio español"
+      }
+    ],
+    "videos": [
+      {
+        "t": "Reel",
+        "url": "https://www.youtube.com/playlist?list=PLbrLTVZ1tfoFAEH-nx4YFnEqmErJzu8b8"
+      },
+      {
+        "t": "Producciones donde he trabajado",
+        "url": "https://www.youtube.com/playlist?list=PLbrLTVZ1tfoEaLMMyYu7R6Nrm4tjg0hxq"
+      },
+      {
+        "t": "Trabajos de cámara y edición",
+        "url": "https://youtube.com/playlist?list=PLbrLTVZ1tfoGVbk4LVZiax7XWAnFOOq0j"
+      },
+      {
+        "t": "Videoclips",
+        "url": "https://youtube.com/playlist?list=PLbrLTVZ1tfoEjvtUntFAeWfFch0m1cqju"
       }
     ]
   },
@@ -267,7 +289,13 @@
       "tags": [
         "pres"
       ],
-      "destacado": true
+      "destacado": true,
+      "videos": [
+        {
+          "t": "Catalogación de las colecciones de home movies del Archivo Fílmico Reyes",
+          "url": "https://youtu.be/fgXvelv_76s"
+        }
+      ]
     },
     {
       "id": "sandia-2022",
@@ -280,6 +308,12 @@
       "desc": "Edición de proyectos sobre la defensa legal de la Amazonía y los derechos de la naturaleza (encuentro MOTH).",
       "tags": [
         "real"
+      ],
+      "videos": [
+        {
+          "t": "Indigenous Sciences Reveal the Depths of the More-Than-Human World (Hilda Santi)",
+          "url": "https://vimeo.com/1080643381"
+        }
       ]
     },
     {
@@ -321,7 +355,8 @@
         "pres",
         "web"
       ],
-      "destacado": true
+      "destacado": true,
+      "url": "https://www.google.com/maps/d/edit?mid=1MGPSvoDX0gfitprLlKCKE2MSNP8Utck&usp=sharing"
     },
     {
       "id": "ficunam-2022",
@@ -334,6 +369,12 @@
       "tags": [
         "docen",
         "prog"
+      ],
+      "videos": [
+        {
+          "t": "Naranjas de Hiroshima XV años · Seminario El Público del Futuro, FICUNAM 2022",
+          "url": "https://youtu.be/DltaMISs3pU"
+        }
       ]
     },
     {
@@ -357,9 +398,15 @@
       "titulo": "Fotografía, cámara y montaje de «Huasteco de corazón»",
       "org": "La Petenera Producciones",
       "lugar": "Ciudad de México",
-      "desc": "Documental dirigido por Aidée Balderas.",
+      "desc": "Documental dirigido por Aidée Balderas Medina y producido por el Colectivo Somos Tradición, sobre músicos, tríos, bailadores y talleres comunitarios del son huasteco. Estrenado en 2021.",
       "tags": [
         "real"
+      ],
+      "videos": [
+        {
+          "t": "Huasteco de corazón (documental completo)",
+          "url": "https://www.youtube.com/watch?v=YdkIvt1Kcpk"
+        }
       ]
     },
     {
@@ -478,7 +525,13 @@
         "pres",
         "prog"
       ],
-      "destacado": true
+      "destacado": true,
+      "videos": [
+        {
+          "t": "Preservación digital de soportes videográficos, Cineteca Nacional 2017–2018",
+          "url": "https://youtu.be/pivQalV5P50"
+        }
+      ]
     },
     {
       "id": "el77",
@@ -764,7 +817,7 @@
       "tipo": "trabajo",
       "inicio": "1996-02",
       "fin": "2023-01",
-      "titulo": "Fotografía documental, realización y diseño gráfico",
+      "titulo": "Fotografía documental, realización, cámara y edición",
       "org": "Kinoluiggi Media",
       "lugar": "España y México",
       "desc": "Obra fotográfica propia publicada bajo licencia Creative Commons BY-NC-SA.",
@@ -772,6 +825,28 @@
       "tags": [
         "foto",
         "real"
+      ],
+      "videos": [
+        {
+          "t": "Reel de cámara y edición",
+          "url": "https://youtu.be/IscIzeai16U"
+        },
+        {
+          "t": "Reel (playlist)",
+          "url": "https://www.youtube.com/playlist?list=PLbrLTVZ1tfoFAEH-nx4YFnEqmErJzu8b8"
+        },
+        {
+          "t": "Producciones donde he trabajado (playlist)",
+          "url": "https://www.youtube.com/playlist?list=PLbrLTVZ1tfoEaLMMyYu7R6Nrm4tjg0hxq"
+        },
+        {
+          "t": "Trabajos de cámara y edición (playlist)",
+          "url": "https://youtube.com/playlist?list=PLbrLTVZ1tfoGVbk4LVZiax7XWAnFOOq0j"
+        },
+        {
+          "t": "Videoclips realizados (playlist)",
+          "url": "https://youtube.com/playlist?list=PLbrLTVZ1tfoEjvtUntFAeWfFch0m1cqju"
+        }
       ]
     },
     {
@@ -886,6 +961,12 @@
       "desc": "Pruebas de un escáner de cine casero para digitalizar el acervo de La Pequeña Filmoteca.",
       "tags": [
         "pres"
+      ],
+      "videos": [
+        {
+          "t": "Pruebas del Kino Rew Cine Film Scanner DIY (playlist)",
+          "url": "https://youtube.com/playlist?list=PLbrLTVZ1tfoGYvIhZXuKCB393fPsQ_-dQ"
+        }
       ]
     },
     {
