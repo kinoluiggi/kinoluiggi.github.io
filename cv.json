@@ -143,14 +143,26 @@
         "TV Serrana",
         "ULTRAcinema MX: cine experimental y de apropiación",
         "Escuela Arte 7",
-        "Festival de Nuevo Cine Yucateco (FENCY)",
-        "CENIDIAP: videoarte",
-        "De la lata a la tele. Acervos de México: Centro de Producción de Cortometraje (CPC)",
+        {
+          "t": "Festival de Nuevo Cine Yucateco (FENCY): muestra de su primera edición (7 al 10 de octubre)",
+          "url": "https://www.youtube.com/watch?v=jKDPxX_Khac"
+        },
+        {
+          "t": "Ensayos audiovisuales del CENIDIAP / INBAL: serie de 23 ensayos documentales (domingos desde el 2 de agosto)",
+          "url": "https://www.youtube.com/watch?v=YSzk5pTgV6Y"
+        },
+        {
+          "t": "De la lata a la tele. Acervos de México: Centro de Producción de Cortometraje (CPC)",
+          "url": "https://www.youtube.com/watch?v=wqjkvh0TwXo"
+        },
         {
           "t": "Mini ciclo «A 87 años del exilio español en México» (12 al 14 de junio)",
           "url": "https://www.youtube.com/watch?v=ryRrG_NWBi4"
         },
-        "Cortos del XIV Encuentro Contra el Silencio Todas las Voces",
+        {
+          "t": "Cortos del XIV Encuentro Hispanoamericano de Cine y Video Documental Independiente Contra el Silencio Todas las Voces (septiembre)",
+          "url": "https://www.youtube.com/watch?v=djsaVW8a12g"
+        },
         {
           "t": "Gregorio Rocha, un recorrido por el cine, la historia y la memoria visual mexicana (septiembre)",
           "url": "https://www.youtube.com/watch?v=6NtI1OQeFzM"
@@ -237,6 +249,12 @@
       "desc": "Primera emisión en televisión de la película, digitalizada en 2K en colaboración con Cineteca Nacional y Estudios Churubusco, dentro de la 1ª Muestra NdH. Punto de partida de la retrospectiva dedicada al realizador.",
       "tags": [
         "pres"
+      ],
+      "videos": [
+        {
+          "t": "Historia de un documento (Óscar Menéndez) a 2K · 1ª Muestra NdH",
+          "url": "https://www.youtube.com/watch?v=wrISvht8Zmw"
+        }
       ]
     },
     {
@@ -292,7 +310,7 @@
       "titulo": "Ciclos programados en 2025",
       "org": "MX Nuestro Cine · Canal 22.2",
       "lugar": "Televisión nacional",
-      "desc": "Ciclos y colaboraciones con archivos, colectivos, festivales y escuelas.",
+      "desc": "320 cortometrajes y 26 largometrajes programados, unas 105 horas de emisión, entre ciclos y colaboraciones con archivos, colectivos, festivales y escuelas.",
       "detalle": [
         "Archivo Fílmico Reyes: cinco materiales inéditos filmados en México entre los años 50 y 70, por primera vez en TV",
         "Nuevo Cine Yucateco (segundo año de colaboración)",
@@ -339,7 +357,8 @@
       "tags": [
         "prog",
         "pres"
-      ]
+      ],
+      "desc": "1 030 cortometrajes y 51 largometrajes programados, unas 328 horas de emisión."
     },
     {
       "id": "ojo-cojo",
@@ -351,6 +370,36 @@
       "lugar": "Madrid",
       "tags": [
         "jurado"
+      ]
+    },
+    {
+      "id": "ciclos-2023",
+      "tipo": "trabajo",
+      "inicio": "2022-07",
+      "fin": "2023",
+      "titulo": "Ciclos programados en 2022–2023",
+      "org": "MX Nuestro Cine · Canal 22.2",
+      "lugar": "Televisión nacional",
+      "desc": "933 cortometrajes programados, unas 252 horas de emisión.",
+      "detalle": [
+        "Contra el Silencio Todas las Voces",
+        "Cortometrajes del IMCINE, incluidos Día de Muertos, Semana del Orgullo y lenguas originarias",
+        "Red de Polos Audiovisuales",
+        "Shorts México",
+        "Escuela de Cine CCC, Escuela Arte 7 y Colegio de Cine BUAP",
+        "Ultracinema en MX Nuestro Cine",
+        "FECIBA",
+        "DIS Guadalajara",
+        "Compilación de cine de Aguascalientes",
+        "PROCINE: tres ciclos de cortometraje documental",
+        "Muestra 5C",
+        "Caleidoscopio: taller de video participativo con niños",
+        "La Sandía Digital",
+        "CUIR: memoria, identidad y disidencia",
+        "Cortos sobre violencia de género y migración"
+      ],
+      "tags": [
+        "prog"
       ]
     },
     {
@@ -367,10 +416,7 @@
         "prog",
         "invest"
       ],
-      "destacado": true,
-      "detalle": [
-        "Acervos y colaboraciones 2022–2023: Contra el Silencio Todas las Voces, IMCINE, Red de Polos Audiovisuales, FECIBA, Ultracinema, Escuela de Cine CCC, DIS Guadalajara, Colegio de Cine BUAP, Escuela Arte 7, Muestra 5C, PROCINE, Shorts México, La Sandía Digital, entre otros"
-      ]
+      "destacado": true
     },
     {
       "id": "c22-research",
